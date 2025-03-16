@@ -1,0 +1,10 @@
+---
+- name: testing playbook
+  hosts: localhost
+  gather_facts: no
+
+  tasks:
+
+    - name: testing
+      debug:
+      msg: "meghraj fand"
