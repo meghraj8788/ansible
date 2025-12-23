@@ -1,5 +1,5 @@
 ---
-- name: testing playbook
+- name: Testing playbook
   hosts: localhost
   gather_facts: no
 
